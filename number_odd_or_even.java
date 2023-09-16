@@ -10,6 +10,7 @@ class Main{
     else{ //if not even then it automatically prints
       System.out.println("Odd"); //if not even then it is odd so print odd
     }
-    
-  }}
+    s.close(); //closeing the Scanner object
+  }
+}
     
