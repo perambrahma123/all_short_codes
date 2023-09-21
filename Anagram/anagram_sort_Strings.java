@@ -1,13 +1,6 @@
 //so anagram means if two strings contains the same alphabets with same count it is 
 //called an anagram 
-/******************************************************************************
 
-Welcome to GDB Online.
-GDB online is an online compiler and debugger tool for C, C++, Python, Java, PHP, Ruby, Perl,
-C#, OCaml, VB, Swift, Pascal, Fortran, Haskell, Objective-C, Assembly, HTML, CSS, JS, SQLite, Prolog.
-Code, Compile, Run and Debug online from anywhere in world.
-
-*******************************************************************************/
 import java.util.*;
 public class Main
 {
@@ -31,3 +24,5 @@ public class Main
 		}
 	}
 }
+//the overall time complexity of your code is O(N * log(N)), where N is the length of the longest input string.
+//the overall space complexity of your code is O(N), where N is the length of the longest input string.
