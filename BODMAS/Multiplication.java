@@ -1,4 +1,4 @@
-//here the addition of integre,float and both is are shown 
+//here the  Multiplication of integre,float and both is are shown 
 import java.util.*;
 public class Main
 {
