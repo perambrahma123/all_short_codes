@@ -1,5 +1,5 @@
 /*
-this is no58 question in leetcode
+this is no 58 question in leetcode
 Given a string s consisting of words and spaces, return the length of the last word in the string.
 
 A word is a maximal 
