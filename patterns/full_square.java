@@ -1,4 +1,4 @@
-//printing a square of * or what every we want in it 
+//printing  a square of * or what every we want in it 
 import java.util.*;
 class Main{
     public static void main(String []args){
